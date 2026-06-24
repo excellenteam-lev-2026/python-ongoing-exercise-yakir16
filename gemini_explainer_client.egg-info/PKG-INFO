@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: gemini-explainer-client
+Version: 0.1.0
+Summary: A Python Client for the Gemini Explainer Web API
+Requires-Dist: requests>=2.0.0
+Requires-Dist: SQLAlchemy>=2.0.0
+Requires-Dist: Flask>=3.0.0
